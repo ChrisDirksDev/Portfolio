@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crexfu/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crexfu/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Crexfu/Portfolio#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
